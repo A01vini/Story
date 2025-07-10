@@ -1,1 +1,1 @@
-using git and git command line trial and error for version control.
+git add -> git commit -> git push
